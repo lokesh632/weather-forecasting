@@ -1,4 +1,5 @@
-Application Screenshot
+Application Sreenshots
+
 ![image](https://github.com/lokesh632/weather-forecasting/assets/66361415/bf57aca4-658e-4723-af7d-ba283ec3b610)
 
 
