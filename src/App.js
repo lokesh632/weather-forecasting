@@ -72,6 +72,7 @@ function App() {
         minHeight: '500px',
       }}
     >
+      <h1 style={{color: "white"}}>Weather Station Dashboard</h1>
       <SvgIcon
         component={SplashIcon}
         inheritViewBox
