@@ -3,7 +3,7 @@ The app is developed using React.js and material-UI.
 
 
 💻 Live Demo:
-https://the-weather-forecasting.netlify.app
+https://lokesh632.github.io/weather-forecasting/
 
 
 ✨ Getting Started
@@ -17,6 +17,7 @@ api/OpenWeatherService.js: It contains the code related to the back-end of the a
 Clone the repository:
 git clone https://github.com/Amin-Awinti/the-weather-forecasting.git
 Install the packages using the command npm install
+
 
 📙 Used libraries
 react-js
