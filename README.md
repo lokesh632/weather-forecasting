@@ -1,3 +1,7 @@
+Application Screenshot
+![image](https://github.com/lokesh632/weather-forecasting/assets/66361415/bf57aca4-658e-4723-af7d-ba283ec3b610)
+
+
 With The Weather Forecasting user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
 The app is developed using React.js and material-UI.
 
